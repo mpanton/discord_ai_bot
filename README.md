@@ -14,7 +14,7 @@ This is a simple Discord chatbot that uses OpenAI's GPT-3 to generate responses 
 
 1.  Clone the repository to your local machine using `git clone https://github.com/mpanton/discord_ai_chatbot.git`
 2.  Navigate to the project directory and install the necessary dependencies using `pip install -r requirements.txt`
-3.  Fill in the required values in the `.discord_ai_bot` file (DISCORD_BOT_TOKEN and OPENAI_API_KEY)
+3.  Fill in the required values in the `discord_ai_bot` file (DISCORD_BOT_TOKEN and OPENAI_API_KEY)
 
 ### Usage
 
