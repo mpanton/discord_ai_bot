@@ -20,5 +20,5 @@ This is a simple Discord chatbot that uses OpenAI's GPT-3 to generate responses 
 
 1.  Invite the bot to your Discord server using the OAuth2 URL generated from the Discord Developer Portal.
 2.  Run the bot using `python discord_ai_bot.py`
-3.  Use the `@botname chat` command to start a chat with the bot.
-4.  Use the `@botname image` command followed by keywords to generate an image based on the keywords.
+3.  Use `/chat` followed by a prompt.
+4.  Use `/image` followed by a prompt.
